@@ -15,10 +15,10 @@
 - [ ] [M121 - The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about)
 - [ ] [M150 - Authentication & Authorization](https://university.mongodb.com/courses/M150/about)
 - [ ] [M201 - MongoDB Performance](https://university.mongodb.com/courses/M201/about)
-- [ ] [M220J - MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about)
+- [x] ~~[M220J - MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about)~~ skipped
 - [ ] [M220JS - MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about)
-- [ ] [M220N - MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about)
-- [ ] [M220P - MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about)
+- [x] ~~[M220N - MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about)~~ skipped
+- [x] ~~[M220P - MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about)~~ skipped
 - [ ] [M312 - Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
 - [ ] [M320 - Data Modeling](https://university.mongodb.com/courses/M320/about)
 - [ ] [A131 - Introduction to MongoDB Charts](https://university.mongodb.com/courses/A131/about)
