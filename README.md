@@ -8,7 +8,7 @@
 ---
 
 ### All Courses
-- [ ] [M001 - MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+- [x] [M001 - MongoDB Basics](https://university.mongodb.com/courses/M001/about) ([Proof of Completion](https://university.mongodb.com/course_completion/d0409a62-cc6b-4c01-9e53-be644ca704fc))
 - [ ] [M100 - MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)
 - [ ] [M103 - Basic Cluster Administration](https://university.mongodb.com/courses/M103/about)
 - [ ] [M112 - Diagnostic Thinking](https://university.mongodb.com/courses/M112/about)
