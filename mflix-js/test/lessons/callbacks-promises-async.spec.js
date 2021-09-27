@@ -30,7 +30,7 @@ describe("Callbacks, Promises, and Aysnc/Await", () => {
     })
     /**
      * Here we passed a callback function. If there would have been an error,
-     * the `err` paramater would have been some other value than Null. The doc
+     * the `err` parameter would have been some other value than Null. The doc
      * parameter was the found document.
      */
   })
