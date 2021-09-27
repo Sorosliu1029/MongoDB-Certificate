@@ -123,4 +123,24 @@ describe("Paging", () => {
     // check the number of movies on the second page
     expect(secondPage.length).toEqual(0)
   })
+
+  test("Supports paging by text 2", async () => {
+    const filters = { text: "Heist" }
+
+    /**
+     * Testing first page
+     */
+    const { moviesList: firstPage } = await MoviesDAO.getMovies({
+      filters,
+    })
+
+    // check the number of movies on the first page
+    expect(firstPage.length).toEqual(20)
+
+    // check some of the movies on the second page
+    const movie = firstPage.pop()
+    expect(movie.imdb.id).toEqual(95861)
+    expect(movie.writers.length).toEqual(2)
+    expect(movie.title).toEqual("The Doublecross")
+  })
 })
