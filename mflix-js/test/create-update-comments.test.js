@@ -37,7 +37,7 @@ describe("Create/Update Comments", () => {
       .db(process.env.MFLIX_NS)
       .collection("comments")
     const deleteResult = await commentsCollection.deleteMany({
-      text: "fa-fe-fi-fo-fum",
+      text: { $in: [comment.text, newCommentText] },
     })
   })
 
@@ -54,6 +54,7 @@ describe("Create/Update Comments", () => {
 
     const movieComments = (await MoviesDAO.getMovieByID(movieId)).comments
 
+    expect(movieComments.length).toBe(2)
     expect(movieComments[0]._id).toEqual(postCommentResult.insertedId)
     expect(movieComments[0].text).toEqual(comment.text)
 
