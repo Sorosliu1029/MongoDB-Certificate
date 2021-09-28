@@ -16,7 +16,7 @@
 - [ ] [M150 - Authentication & Authorization](https://university.mongodb.com/courses/M150/about)
 - [ ] [M201 - MongoDB Performance](https://university.mongodb.com/courses/M201/about)
 - [x] ~~[M220J - MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about)~~ skipped
-- [ ] [M220JS - MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about)
+- [x] [M220JS - MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about) ([Proof of Completion](https://university.mongodb.com/course_completion/082ad8dd-141b-4467-9359-e8b8f5eacc1e))
 - [x] ~~[M220N - MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about)~~ skipped
 - [x] ~~[M220P - MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about)~~ skipped
 - [ ] [M312 - Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
