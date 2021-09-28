@@ -23,7 +23,8 @@
 - [ ] [M320 - Data Modeling](https://university.mongodb.com/courses/M320/about)
 - [ ] [A131 - Introduction to MongoDB Charts](https://university.mongodb.com/courses/A131/about)
 - [ ] [A300 - Atlas Security](https://university.mongodb.com/courses/A300/about)
-- [ ] [T101 - Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about)
+- [x] [T101 - Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about) ([Proof of Completion](https://university.mongodb.com/course_completion/82bad307-4752-4fc3-beeb-4715da02dd92))
+
 
 ---
 
