@@ -11,7 +11,7 @@
 - [x] [M001 - MongoDB Basics](https://university.mongodb.com/courses/M001/about) ([Proof of Completion](https://university.mongodb.com/course_completion/d0409a62-cc6b-4c01-9e53-be644ca704fc))
 - [x] [M100 - MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about) ([Proof of Completion](https://university.mongodb.com/course_completion/c5b78de6-8f95-45bc-a72d-230239faec8b))
 - [x] [M103 - Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) ([Proof of Completion](https://university.mongodb.com/course_completion/bba79eb1-57a4-4482-871e-cf3d5637a786))
-- [ ] [M112 - Diagnostic Thinking](https://university.mongodb.com/courses/M112/about)
+- [x] [M112 - Diagnostic Thinking](https://university.mongodb.com/courses/M112/about) ([Proof of Completion](https://university.mongodb.com/course_completion/79367103-2bd8-43d8-a458-cc32ca503ae9))
 - [ ] [M121 - The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about)
 - [ ] [M150 - Authentication & Authorization](https://university.mongodb.com/courses/M150/about)
 - [ ] [M201 - MongoDB Performance](https://university.mongodb.com/courses/M201/about)
