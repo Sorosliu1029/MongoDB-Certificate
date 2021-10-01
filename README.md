@@ -22,7 +22,7 @@
 - [ ] [M312 - Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
 - [ ] [M320 - Data Modeling](https://university.mongodb.com/courses/M320/about)
 - [x] [A131 - Introduction to MongoDB Charts](https://university.mongodb.com/courses/A131/about) ([Proof of Completion](https://university.mongodb.com/course_completion/065ea7ee-f893-4c4f-9ad7-1573f43afa32))
-- [ ] [A300 - Atlas Security](https://university.mongodb.com/courses/A300/about)
+- [x] [A300 - Atlas Security](https://university.mongodb.com/courses/A300/about) ([Proof of Completion](https://university.mongodb.com/course_completion/36e7ec0b-203c-4924-9ee2-565ebcc4ee0d))
 - [x] [T101 - Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about) ([Proof of Completion](https://university.mongodb.com/course_completion/82bad307-4752-4fc3-beeb-4715da02dd92))
 
 
