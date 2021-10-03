@@ -19,7 +19,7 @@
 - [x] [M220JS - MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about) ([Proof of Completion](https://university.mongodb.com/course_completion/082ad8dd-141b-4467-9359-e8b8f5eacc1e))
 - [x] ~~[M220N - MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about)~~ skipped
 - [x] ~~[M220P - MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about)~~ skipped
-- [ ] [M312 - Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
+- [x] [M312 - Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about) ([Proof of Completion](https://university.mongodb.com/course_completion/e56cb3fd-4ffc-43c4-9bcd-d10ef537039b))
 - [x] [M320 - Data Modeling](https://university.mongodb.com/courses/M320/about) ([Proof of Completion](https://university.mongodb.com/course_completion/b8aff82c-0efc-4f8f-bc15-8e9dd897801b))
 - [x] [A131 - Introduction to MongoDB Charts](https://university.mongodb.com/courses/A131/about) ([Proof of Completion](https://university.mongodb.com/course_completion/065ea7ee-f893-4c4f-9ad7-1573f43afa32))
 - [x] [A300 - Atlas Security](https://university.mongodb.com/courses/A300/about) ([Proof of Completion](https://university.mongodb.com/course_completion/36e7ec0b-203c-4924-9ee2-565ebcc4ee0d))
