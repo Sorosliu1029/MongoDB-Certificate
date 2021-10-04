@@ -13,7 +13,7 @@
 - [x] [M103 - Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) ([Proof of Completion](https://university.mongodb.com/course_completion/bba79eb1-57a4-4482-871e-cf3d5637a786))
 - [x] [M112 - Diagnostic Thinking](https://university.mongodb.com/courses/M112/about) ([Proof of Completion](https://university.mongodb.com/course_completion/79367103-2bd8-43d8-a458-cc32ca503ae9))
 - [x] [M121 - The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) ([Proof of Completion](https://university.mongodb.com/course_completion/4ae167b6-2897-43af-90af-05f3267acbc5))
-- [ ] [M150 - Authentication & Authorization](https://university.mongodb.com/courses/M150/about)
+- [x] [M150 - Authentication & Authorization](https://university.mongodb.com/courses/M150/about) ([Proof of Completion](https://university.mongodb.com/course_completion/1f2dbd99-8d9c-423a-9938-ddb6a516d3b3))
 - [x] [M201 - MongoDB Performance](https://university.mongodb.com/courses/M201/about) ([Proof of Completion](https://university.mongodb.com/course_completion/9e6c2084-17b0-40cf-9595-6a99f5aca400))
 - [x] ~~[M220J - MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about)~~ skipped
 - [x] [M220JS - MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about) ([Proof of Completion](https://university.mongodb.com/course_completion/082ad8dd-141b-4467-9359-e8b8f5eacc1e))
