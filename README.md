@@ -32,7 +32,7 @@
 
 - [ ] [Philosophy and Features](https://university.mongodb.com/exam/guide#philosophy-and-features)
   - [x] JSON
-  - [ ] BSON
+  - [x] BSON
   - [ ] The Mongo Shell
   - [ ] Vertical and Horizontal Scaling
   - [ ] MongoDB and Relational Databases
