@@ -31,7 +31,7 @@
 ### [Exam Guide](https://university.mongodb.com/exam/guide)
 
 - [ ] [Philosophy and Features](https://university.mongodb.com/exam/guide#philosophy-and-features)
-  - [ ] JSON
+  - [x] JSON
   - [ ] BSON
   - [ ] The Mongo Shell
   - [ ] Vertical and Horizontal Scaling
