@@ -30,11 +30,11 @@
 
 ### [Exam Guide](https://university.mongodb.com/exam/guide)
 
-- [ ] [Philosophy and Features](https://university.mongodb.com/exam/guide#philosophy-and-features)
+- [x] [Philosophy and Features](https://university.mongodb.com/exam/guide#philosophy-and-features)
   - [x] JSON
   - [x] BSON
   - [x] The Mongo Shell
-  - [ ] Vertical and Horizontal Scaling
+  - [x] Vertical and Horizontal Scaling
   - [x] MongoDB and Relational Databases
   - [x] Flexible Schema in MongoDB
 - [ ] [CRUD](https://university.mongodb.com/exam/guide#crud)
