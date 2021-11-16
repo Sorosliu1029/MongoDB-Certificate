@@ -36,7 +36,7 @@
   - [x] The Mongo Shell
   - [ ] Vertical and Horizontal Scaling
   - [x] MongoDB and Relational Databases
-  - [ ] Flexible Schema in MongoDB
+  - [x] Flexible Schema in MongoDB
 - [ ] [CRUD](https://university.mongodb.com/exam/guide#crud)
   - [ ] Create
   - [ ] Read
