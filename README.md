@@ -35,7 +35,7 @@
   - [x] BSON
   - [x] The Mongo Shell
   - [ ] Vertical and Horizontal Scaling
-  - [ ] MongoDB and Relational Databases
+  - [x] MongoDB and Relational Databases
   - [ ] Flexible Schema in MongoDB
 - [ ] [CRUD](https://university.mongodb.com/exam/guide#crud)
   - [ ] Create
