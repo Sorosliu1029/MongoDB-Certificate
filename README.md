@@ -38,7 +38,7 @@
   - [x] MongoDB and Relational Databases
   - [x] Flexible Schema in MongoDB
 - [ ] [CRUD](https://university.mongodb.com/exam/guide#crud)
-  - [ ] Create
+  - [x] Create
   - [ ] Read
   - [ ] Update
   - [ ] Delete
