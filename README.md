@@ -39,7 +39,7 @@
   - [x] Flexible Schema in MongoDB
 - [ ] [CRUD](https://university.mongodb.com/exam/guide#crud)
   - [x] Create
-  - [ ] Read
+  - [x] Read
   - [ ] Update
   - [ ] Delete
 - [ ] [Indexes](https://university.mongodb.com/exam/guide#indexes)
