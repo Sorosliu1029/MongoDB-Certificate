@@ -37,11 +37,11 @@
   - [x] Vertical and Horizontal Scaling
   - [x] MongoDB and Relational Databases
   - [x] Flexible Schema in MongoDB
-- [ ] [CRUD](https://university.mongodb.com/exam/guide#crud)
+- [x] [CRUD](https://university.mongodb.com/exam/guide#crud)
   - [x] Create
   - [x] Read
   - [x] Update
-  - [ ] Delete
+  - [x] Delete
 - [ ] [Indexes](https://university.mongodb.com/exam/guide#indexes)
   - [ ] Introduction
   - [ ] Default `_id` index
