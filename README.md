@@ -40,7 +40,7 @@
 - [ ] [CRUD](https://university.mongodb.com/exam/guide#crud)
   - [x] Create
   - [x] Read
-  - [ ] Update
+  - [x] Update
   - [ ] Delete
 - [ ] [Indexes](https://university.mongodb.com/exam/guide#indexes)
   - [ ] Introduction
