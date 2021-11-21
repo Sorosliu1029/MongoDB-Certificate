@@ -48,7 +48,7 @@
   - [x] Creating and Dropping Indexes
   - [x] Collection Scans
   - [x] Single Field Indexes
-  - [ ] Compound Indexes
+  - [x] Compound Indexes
   - [ ] Multikey Indexes
   - [ ] Geospatial Indexes
   - [ ] Text Indexes
