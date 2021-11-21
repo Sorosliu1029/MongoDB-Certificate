@@ -49,7 +49,7 @@
   - [x] Collection Scans
   - [x] Single Field Indexes
   - [x] Compound Indexes
-  - [ ] Multikey Indexes
+  - [x] Multikey Indexes
   - [ ] Geospatial Indexes
   - [ ] Text Indexes
   - [ ] Hashed Indexes
