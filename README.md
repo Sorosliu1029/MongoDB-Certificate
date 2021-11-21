@@ -46,7 +46,7 @@
   - [x] Introduction
   - [x] Default `_id` index
   - [x] Creating and Dropping Indexes
-  - [ ] Collection Scans
+  - [x] Collection Scans
   - [ ] Single Field Indexes
   - [ ] Compound Indexes
   - [ ] Multikey Indexes
