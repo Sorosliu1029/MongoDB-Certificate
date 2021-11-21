@@ -43,7 +43,7 @@
   - [x] Update
   - [x] Delete
 - [ ] [Indexes](https://university.mongodb.com/exam/guide#indexes)
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] Default `_id` index
   - [ ] Creating and Dropping Indexes
   - [ ] Collection Scans
