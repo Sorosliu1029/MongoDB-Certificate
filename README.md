@@ -45,7 +45,7 @@
 - [ ] [Indexes](https://university.mongodb.com/exam/guide#indexes)
   - [x] Introduction
   - [x] Default `_id` index
-  - [ ] Creating and Dropping Indexes
+  - [x] Creating and Dropping Indexes
   - [ ] Collection Scans
   - [ ] Single Field Indexes
   - [ ] Compound Indexes
