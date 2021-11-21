@@ -54,7 +54,7 @@
   - [ ] Text Indexes
   - [ ] Hashed Indexes
   - [ ] Wildcard Indexes
-  - [ ] Sorting with Indexes
+  - [x] Sorting with Indexes
   - [ ] The .explain() Method
   - [ ] Selecting an Index
   - [ ] Covered Queries
