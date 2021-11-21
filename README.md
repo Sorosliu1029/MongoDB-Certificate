@@ -47,7 +47,7 @@
   - [x] Default `_id` index
   - [x] Creating and Dropping Indexes
   - [x] Collection Scans
-  - [ ] Single Field Indexes
+  - [x] Single Field Indexes
   - [ ] Compound Indexes
   - [ ] Multikey Indexes
   - [ ] Geospatial Indexes
