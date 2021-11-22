@@ -51,7 +51,7 @@
   - [x] Compound Indexes
   - [x] Multikey Indexes
   - [x] Geospatial Indexes
-  - [ ] Text Indexes
+  - [x] Text Indexes
   - [ ] Hashed Indexes
   - [ ] Wildcard Indexes
   - [x] Sorting with Indexes
