@@ -53,7 +53,7 @@
   - [x] Geospatial Indexes
   - [x] Text Indexes
   - [x] Hashed Indexes
-  - [ ] Wildcard Indexes
+  - [x] Wildcard Indexes
   - [x] Sorting with Indexes
   - [ ] The .explain() Method
   - [ ] Selecting an Index
