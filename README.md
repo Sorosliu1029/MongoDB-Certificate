@@ -50,7 +50,7 @@
   - [x] Single Field Indexes
   - [x] Compound Indexes
   - [x] Multikey Indexes
-  - [ ] Geospatial Indexes
+  - [x] Geospatial Indexes
   - [ ] Text Indexes
   - [ ] Hashed Indexes
   - [ ] Wildcard Indexes
