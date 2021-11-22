@@ -56,7 +56,7 @@
   - [x] Wildcard Indexes
   - [x] Sorting with Indexes
   - [ ] The .explain() Method
-  - [ ] Selecting an Index
+  - [x] Selecting an Index
   - [x] Covered Queries
   - [ ] Indexing Strategies
   - [ ] Effect of Indexes on Write Performance
