@@ -52,7 +52,7 @@
   - [x] Multikey Indexes
   - [x] Geospatial Indexes
   - [x] Text Indexes
-  - [ ] Hashed Indexes
+  - [x] Hashed Indexes
   - [ ] Wildcard Indexes
   - [x] Sorting with Indexes
   - [ ] The .explain() Method
