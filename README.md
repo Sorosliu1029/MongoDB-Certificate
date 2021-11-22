@@ -57,7 +57,7 @@
   - [x] Sorting with Indexes
   - [ ] The .explain() Method
   - [ ] Selecting an Index
-  - [ ] Covered Queries
+  - [x] Covered Queries
   - [ ] Indexing Strategies
   - [ ] Effect of Indexes on Write Performance
   - [ ] Unique Indexes
