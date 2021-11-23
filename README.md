@@ -58,7 +58,7 @@
   - [x] The .explain() Method
   - [x] Selecting an Index
   - [x] Covered Queries
-  - [ ] Indexing Strategies
+  - [x] Indexing Strategies
   - [ ] Effect of Indexes on Write Performance
   - [ ] Unique Indexes
   - [ ] TTL Indexes
