@@ -55,7 +55,7 @@
   - [x] Hashed Indexes
   - [x] Wildcard Indexes
   - [x] Sorting with Indexes
-  - [ ] The .explain() Method
+  - [x] The .explain() Method
   - [x] Selecting an Index
   - [x] Covered Queries
   - [ ] Indexing Strategies
