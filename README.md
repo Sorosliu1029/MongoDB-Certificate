@@ -60,7 +60,7 @@
   - [x] Covered Queries
   - [x] Indexing Strategies
   - [x] Effect of Indexes on Write Performance
-  - [ ] Unique Indexes
+  - [x] Unique Indexes
   - [ ] TTL Indexes
   - [ ] Hidden Indexes
   - [ ] Partial Indexes
