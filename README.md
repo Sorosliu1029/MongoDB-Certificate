@@ -59,7 +59,7 @@
   - [x] Selecting an Index
   - [x] Covered Queries
   - [x] Indexing Strategies
-  - [ ] Effect of Indexes on Write Performance
+  - [x] Effect of Indexes on Write Performance
   - [ ] Unique Indexes
   - [ ] TTL Indexes
   - [ ] Hidden Indexes
