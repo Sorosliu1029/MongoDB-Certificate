@@ -61,7 +61,7 @@
   - [x] Indexing Strategies
   - [x] Effect of Indexes on Write Performance
   - [x] Unique Indexes
-  - [ ] TTL Indexes
+  - [x] TTL Indexes
   - [ ] Hidden Indexes
   - [ ] Partial Indexes
   - [ ] Hybrid Index Build
