@@ -42,7 +42,7 @@
   - [x] Read
   - [x] Update
   - [x] Delete
-- [ ] [Indexes](https://university.mongodb.com/exam/guide#indexes)
+- [x] [Indexes](https://university.mongodb.com/exam/guide#indexes)
   - [x] Introduction
   - [x] Default `_id` index
   - [x] Creating and Dropping Indexes
@@ -64,7 +64,7 @@
   - [x] TTL Indexes
   - [x] Hidden Indexes
   - [x] Partial Indexes
-  - [ ] Hybrid Index Build
+  - [x] Hybrid Index Build
   - [x] Regex on String Fields and Indexes
 - [ ] [Data Modeling](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
   - [ ] Introduction
