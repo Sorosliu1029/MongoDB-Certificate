@@ -63,7 +63,7 @@
   - [x] Unique Indexes
   - [x] TTL Indexes
   - [x] Hidden Indexes
-  - [ ] Partial Indexes
+  - [x] Partial Indexes
   - [ ] Hybrid Index Build
   - [ ] Regex on String Fields and Indexes
 - [ ] [Data Modeling](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
