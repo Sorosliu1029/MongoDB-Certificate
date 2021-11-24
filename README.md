@@ -62,7 +62,7 @@
   - [x] Effect of Indexes on Write Performance
   - [x] Unique Indexes
   - [x] TTL Indexes
-  - [ ] Hidden Indexes
+  - [x] Hidden Indexes
   - [ ] Partial Indexes
   - [ ] Hybrid Index Build
   - [ ] Regex on String Fields and Indexes
