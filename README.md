@@ -68,7 +68,7 @@
 - [ ] [Data Modeling (Developer Only)](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
   - [x] Introduction
   - [x] Document Structure
-  - [ ] Relational Features and MongoDB Patterns
+  - [x] Relational Features and MongoDB Patterns
   - [ ] One-to-One Relationships
   - [ ] One-to-Many Relationships
   - [ ] Many-to-Many Relationships
