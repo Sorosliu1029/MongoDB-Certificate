@@ -67,7 +67,7 @@
   - [x] Regex on String Fields and Indexes
 - [ ] [Data Modeling (Developer Only)](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
   - [x] Introduction
-  - [ ] Document Structure
+  - [x] Document Structure
   - [ ] Relational Features and MongoDB Patterns
   - [ ] One-to-One Relationships
   - [ ] One-to-Many Relationships
