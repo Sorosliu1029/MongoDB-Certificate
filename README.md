@@ -25,7 +25,6 @@
 - [x] [A300 - Atlas Security](https://university.mongodb.com/courses/A300/about) ([Proof of Completion](https://university.mongodb.com/course_completion/36e7ec0b-203c-4924-9ee2-565ebcc4ee0d))
 - [x] [T101 - Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about) ([Proof of Completion](https://university.mongodb.com/course_completion/82bad307-4752-4fc3-beeb-4715da02dd92))
 
-
 ---
 
 ### [Exam Guide](https://university.mongodb.com/exam/guide)
@@ -66,8 +65,8 @@
   - [x] Partial Indexes
   - [x] Hybrid Index Build
   - [x] Regex on String Fields and Indexes
-- [ ] [Data Modeling](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
-  - [ ] Introduction
+- [ ] [Data Modeling (Developer Only)](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
+  - [x] Introduction
   - [ ] Document Structure
   - [ ] Relational Features and MongoDB Patterns
   - [ ] One-to-One Relationships
@@ -81,7 +80,7 @@
   - [ ] The NumberDecimal Type
   - [ ] MongoDB Blogs on Data Modelling
   - [ ] MongoDB Schema Design Best Practices Series
-- [ ] [Aggregation](https://university.mongodb.com/exam/guide#aggregation-developer-only)
+- [ ] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
   - [ ] Introduction
   - [ ] Aggregation Expressions
   - [ ] Aggregation Stages
@@ -106,11 +105,11 @@
   - [ ] The Shard Key
   - [ ] Chunks and the Balancer
   - [ ] Config Servers and Cluster Metadata
-  - [ ] Pre-Splitting Data
+  - [ ] Pre-Splitting Data (DBA Only)
   - [ ] Queries in a Sharded Cluster
   - [ ] Choosing a Shard Key
   - [ ] Primary Shard
-- [ ] [Application and Server Administration](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
+- [ ] [Application and Server Administration (DBA Only)](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
   - [ ] Introduction
   - [ ] Journal
   - [ ] Compression
@@ -126,9 +125,9 @@
   - [ ] Introduction
   - [ ] Importing and Exporting Data
   - [ ] Basic Server Monitoring
-  - [ ] Backing up and Restoring Data
-  - [ ] Advanced MongoDB Diagnostics
-  - [ ] Manipulating BLOBs
+  - [ ] Backing up and Restoring Data (DBA Only)
+  - [ ] Advanced MongoDB Diagnostics (DBA Only)
+  - [ ] Manipulating BLOBs (DBA Only)
 - [ ] [Storage Engines](https://university.mongodb.com/exam/guide#storage-engines)
   - [ ] Introduction
   - [ ] WiredTiger
