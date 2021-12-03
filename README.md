@@ -71,7 +71,7 @@
   - [x] Relational Features and MongoDB Patterns
   - [x] One-to-One Relationships
   - [x] One-to-Many Relationships
-  - [ ] Many-to-Many Relationships
+  - [x] Many-to-Many Relationships
   - [ ] Modeling Tree Structures
   - [ ] Schema Design Patterns
   - [ ] MongoDB BLOB Options
