@@ -72,7 +72,7 @@
   - [x] One-to-One Relationships
   - [x] One-to-Many Relationships
   - [x] Many-to-Many Relationships
-  - [ ] Modeling Tree Structures
+  - [x] Modeling Tree Structures
   - [ ] Schema Design Patterns
   - [ ] MongoDB BLOB Options
   - [ ] Views
