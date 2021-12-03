@@ -70,7 +70,7 @@
   - [x] Document Structure
   - [x] Relational Features and MongoDB Patterns
   - [x] One-to-One Relationships
-  - [ ] One-to-Many Relationships
+  - [x] One-to-Many Relationships
   - [ ] Many-to-Many Relationships
   - [ ] Modeling Tree Structures
   - [ ] Schema Design Patterns
