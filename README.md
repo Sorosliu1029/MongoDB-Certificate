@@ -75,7 +75,7 @@
   - [x] Modeling Tree Structures
   - [x] Schema Design Patterns
   - [x] MongoDB BLOB Options
-  - [ ] Views
+  - [x] Views
   - [ ] Collations and Case Insensitive Indexes
   - [ ] The NumberDecimal Type
   - [ ] MongoDB Blogs on Data Modelling
