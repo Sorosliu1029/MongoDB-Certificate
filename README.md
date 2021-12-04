@@ -73,7 +73,7 @@
   - [x] One-to-Many Relationships
   - [x] Many-to-Many Relationships
   - [x] Modeling Tree Structures
-  - [ ] Schema Design Patterns
+  - [x] Schema Design Patterns
   - [ ] MongoDB BLOB Options
   - [ ] Views
   - [ ] Collations and Case Insensitive Indexes
