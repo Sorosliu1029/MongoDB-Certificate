@@ -74,7 +74,7 @@
   - [x] Many-to-Many Relationships
   - [x] Modeling Tree Structures
   - [x] Schema Design Patterns
-  - [ ] MongoDB BLOB Options
+  - [x] MongoDB BLOB Options
   - [ ] Views
   - [ ] Collations and Case Insensitive Indexes
   - [ ] The NumberDecimal Type
