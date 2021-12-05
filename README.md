@@ -77,7 +77,7 @@
   - [x] MongoDB BLOB Options
   - [x] Views
   - [x] Collations and Case Insensitive Indexes
-  - [ ] The NumberDecimal Type
+  - [x] The NumberDecimal Type
   - [ ] MongoDB Blogs on Data Modelling
   - [ ] MongoDB Schema Design Best Practices Series
 - [ ] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
