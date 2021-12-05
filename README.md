@@ -76,7 +76,7 @@
   - [x] Schema Design Patterns
   - [x] MongoDB BLOB Options
   - [x] Views
-  - [ ] Collations and Case Insensitive Indexes
+  - [x] Collations and Case Insensitive Indexes
   - [ ] The NumberDecimal Type
   - [ ] MongoDB Blogs on Data Modelling
   - [ ] MongoDB Schema Design Best Practices Series
