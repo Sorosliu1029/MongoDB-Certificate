@@ -82,7 +82,7 @@
   - [ ] MongoDB Schema Design Best Practices Series
 - [ ] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
   - [x] Introduction
-  - [ ] Aggregation Expressions
+  - [x] Aggregation Expressions
   - [ ] Aggregation Stages
   - [ ] Aggregation Operators
   - [ ] Aggregation Mechanics
