@@ -81,7 +81,7 @@
   - [ ] MongoDB Blogs on Data Modelling
   - [ ] MongoDB Schema Design Best Practices Series
 - [ ] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] Aggregation Expressions
   - [ ] Aggregation Stages
   - [ ] Aggregation Operators
