@@ -83,7 +83,7 @@
 - [ ] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
   - [x] Introduction
   - [x] Aggregation Expressions
-  - [ ] Aggregation Stages
+  - [x] Aggregation Stages
   - [ ] Aggregation Operators
   - [ ] Aggregation Mechanics
   - [ ] Aggregation Options
