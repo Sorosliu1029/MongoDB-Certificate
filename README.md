@@ -85,7 +85,7 @@
   - [x] Aggregation Expressions
   - [x] Aggregation Stages
   - [x] Aggregation Operators
-  - [ ] Aggregation Mechanics
+  - [x] Aggregation Mechanics
   - [ ] Aggregation Options
   - [ ] Aggregation Examples
 - [ ] [Replication](https://university.mongodb.com/exam/guide#replication)
