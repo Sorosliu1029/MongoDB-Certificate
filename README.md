@@ -78,7 +78,7 @@
   - [x] Views
   - [x] Collations and Case Insensitive Indexes
   - [x] The NumberDecimal Type
-  - [ ] MongoDB Blogs on Data Modelling
+  - [x] MongoDB Blogs on Data Modelling
   - [ ] MongoDB Schema Design Best Practices Series
 - [x] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
   - [x] Introduction
