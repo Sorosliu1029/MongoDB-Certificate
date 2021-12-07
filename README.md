@@ -84,7 +84,7 @@
   - [x] Introduction
   - [x] Aggregation Expressions
   - [x] Aggregation Stages
-  - [ ] Aggregation Operators
+  - [x] Aggregation Operators
   - [ ] Aggregation Mechanics
   - [ ] Aggregation Options
   - [ ] Aggregation Examples
