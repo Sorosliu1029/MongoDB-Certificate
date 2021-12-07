@@ -80,14 +80,14 @@
   - [x] The NumberDecimal Type
   - [ ] MongoDB Blogs on Data Modelling
   - [ ] MongoDB Schema Design Best Practices Series
-- [ ] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
+- [x] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
   - [x] Introduction
   - [x] Aggregation Expressions
   - [x] Aggregation Stages
   - [x] Aggregation Operators
   - [x] Aggregation Mechanics
   - [x] Aggregation Options
-  - [ ] Aggregation Examples
+  - [x] Aggregation Examples
 - [ ] [Replication](https://university.mongodb.com/exam/guide#replication)
   - [ ] Introduction
   - [ ] Nodes
