@@ -89,7 +89,7 @@
   - [x] Aggregation Options
   - [x] Aggregation Examples
 - [ ] [Replication](https://university.mongodb.com/exam/guide#replication)
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] Nodes
   - [ ] Initiating a Replica Set
   - [ ] Elections
