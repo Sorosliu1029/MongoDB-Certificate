@@ -65,7 +65,7 @@
   - [x] Partial Indexes
   - [x] Hybrid Index Build
   - [x] Regex on String Fields and Indexes
-- [ ] [Data Modeling (Developer Only)](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
+- [x] [Data Modeling (Developer Only)](https://university.mongodb.com/exam/guide#data-modeling-developer-only)
   - [x] Introduction
   - [x] Document Structure
   - [x] Relational Features and MongoDB Patterns
@@ -79,7 +79,7 @@
   - [x] Collations and Case Insensitive Indexes
   - [x] The NumberDecimal Type
   - [x] MongoDB Blogs on Data Modelling
-  - [ ] MongoDB Schema Design Best Practices Series
+  - [x] MongoDB Schema Design Best Practices Series
 - [x] [Aggregation (Developer Only)](https://university.mongodb.com/exam/guide#aggregation-developer-only)
   - [x] Introduction
   - [x] Aggregation Expressions
