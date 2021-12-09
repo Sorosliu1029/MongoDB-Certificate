@@ -90,7 +90,7 @@
   - [x] Aggregation Examples
 - [ ] [Replication](https://university.mongodb.com/exam/guide#replication)
   - [x] Introduction
-  - [ ] Nodes
+  - [x] Nodes
   - [ ] Initiating a Replica Set
   - [ ] Elections
   - [ ] Failover
