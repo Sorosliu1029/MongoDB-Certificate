@@ -91,7 +91,7 @@
 - [ ] [Replication](https://university.mongodb.com/exam/guide#replication)
   - [x] Introduction
   - [x] Nodes
-  - [ ] Initiating a Replica Set
+  - [x] Initiating a Replica Set
   - [ ] Elections
   - [ ] Failover
   - [ ] Rollback
