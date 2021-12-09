@@ -93,7 +93,7 @@
   - [x] Nodes
   - [x] Initiating a Replica Set
   - [x] Elections
-  - [ ] Failover
+  - [x] Failover
   - [ ] Rollback
   - [ ] rs.status()
   - [ ] Replica Set Reconfiguration
