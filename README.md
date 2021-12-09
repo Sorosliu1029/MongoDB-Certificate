@@ -97,7 +97,7 @@
   - [x] Rollback
   - [x] rs.status()
   - [x] Replica Set Reconfiguration
-  - [ ] Oplog
+  - [x] Oplog
   - [ ] Read Preference
   - [ ] Write Concern
 - [ ] [Sharding](https://university.mongodb.com/exam/guide#sharding)
