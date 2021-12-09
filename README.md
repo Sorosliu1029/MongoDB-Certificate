@@ -92,7 +92,7 @@
   - [x] Introduction
   - [x] Nodes
   - [x] Initiating a Replica Set
-  - [ ] Elections
+  - [x] Elections
   - [ ] Failover
   - [ ] Rollback
   - [ ] rs.status()
