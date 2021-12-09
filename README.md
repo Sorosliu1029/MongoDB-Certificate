@@ -95,7 +95,7 @@
   - [x] Elections
   - [x] Failover
   - [x] Rollback
-  - [ ] rs.status()
+  - [x] rs.status()
   - [ ] Replica Set Reconfiguration
   - [ ] Oplog
   - [ ] Read Preference
