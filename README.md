@@ -96,7 +96,7 @@
   - [x] Failover
   - [x] Rollback
   - [x] rs.status()
-  - [ ] Replica Set Reconfiguration
+  - [x] Replica Set Reconfiguration
   - [ ] Oplog
   - [ ] Read Preference
   - [ ] Write Concern
