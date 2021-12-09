@@ -98,7 +98,7 @@
   - [x] rs.status()
   - [x] Replica Set Reconfiguration
   - [x] Oplog
-  - [ ] Read Preference
+  - [x] Read Preference
   - [ ] Write Concern
 - [ ] [Sharding](https://university.mongodb.com/exam/guide#sharding)
   - [ ] Introduction
