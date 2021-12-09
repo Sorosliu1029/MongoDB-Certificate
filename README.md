@@ -94,7 +94,7 @@
   - [x] Initiating a Replica Set
   - [x] Elections
   - [x] Failover
-  - [ ] Rollback
+  - [x] Rollback
   - [ ] rs.status()
   - [ ] Replica Set Reconfiguration
   - [ ] Oplog
