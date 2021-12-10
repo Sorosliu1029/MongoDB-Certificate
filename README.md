@@ -88,7 +88,7 @@
   - [x] Aggregation Mechanics
   - [x] Aggregation Options
   - [x] Aggregation Examples
-- [ ] [Replication](https://university.mongodb.com/exam/guide#replication)
+- [x] [Replication](https://university.mongodb.com/exam/guide#replication)
   - [x] Introduction
   - [x] Nodes
   - [x] Initiating a Replica Set
@@ -99,7 +99,7 @@
   - [x] Replica Set Reconfiguration
   - [x] Oplog
   - [x] Read Preference
-  - [ ] Write Concern
+  - [x] Write Concern
 - [ ] [Sharding](https://university.mongodb.com/exam/guide#sharding)
   - [ ] Introduction
   - [ ] The Shard Key
