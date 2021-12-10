@@ -122,8 +122,8 @@
   - [ ] Maintenance
   - [ ] Backup and Recovery
 - [ ] [Server Tools](https://university.mongodb.com/exam/guide#server-tools)
-  - [ ] Introduction
-  - [ ] Importing and Exporting Data
+  - [x] Introduction
+  - [x] Importing and Exporting Data
   - [ ] Basic Server Monitoring
   - [ ] Backing up and Restoring Data (DBA Only)
   - [ ] Advanced MongoDB Diagnostics (DBA Only)
