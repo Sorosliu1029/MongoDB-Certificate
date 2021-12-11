@@ -108,7 +108,7 @@
   - [ ] Pre-Splitting Data (DBA Only)
   - [x] Queries in a Sharded Cluster
   - [x] Choosing a Shard Key
-  - [ ] Primary Shard
+  - [x] Primary Shard
 - [ ] [Application and Server Administration (DBA Only)](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
   - [ ] Introduction
   - [ ] Journal
