@@ -129,7 +129,7 @@
   - [ ] Advanced MongoDB Diagnostics (DBA Only)
   - [ ] Manipulating BLOBs (DBA Only)
 - [ ] [Storage Engines](https://university.mongodb.com/exam/guide#storage-engines)
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] WiredTiger
   - [ ] Features of WiredTiger
   - [ ] Data Files
