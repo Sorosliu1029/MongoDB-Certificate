@@ -128,9 +128,8 @@
   - [ ] Backing up and Restoring Data (DBA Only)
   - [ ] Advanced MongoDB Diagnostics (DBA Only)
   - [ ] Manipulating BLOBs (DBA Only)
-- [ ] [Storage Engines](https://university.mongodb.com/exam/guide#storage-engines)
+- [x] [Storage Engines](https://university.mongodb.com/exam/guide#storage-engines)
   - [x] Introduction
-  - [ ] WiredTiger
-  - [ ] Features of WiredTiger
-  - [ ] Data Files
-  - [ ] In-Memory Storage Engine
+  - [x] WiredTiger
+  - [x] Data Files
+  - [x] In-Memory Storage Engine
