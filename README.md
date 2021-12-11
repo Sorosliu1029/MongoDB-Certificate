@@ -103,7 +103,7 @@
 - [ ] [Sharding](https://university.mongodb.com/exam/guide#sharding)
   - [x] Introduction
   - [x] The Shard Key
-  - [ ] Chunks and the Balancer
+  - [x] Chunks and the Balancer
   - [ ] Config Servers and Cluster Metadata
   - [ ] Pre-Splitting Data (DBA Only)
   - [ ] Queries in a Sharded Cluster
