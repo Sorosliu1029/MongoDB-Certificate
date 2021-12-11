@@ -104,7 +104,7 @@
   - [x] Introduction
   - [x] The Shard Key
   - [x] Chunks and the Balancer
-  - [ ] Config Servers and Cluster Metadata
+  - [x] Config Servers and Cluster Metadata
   - [ ] Pre-Splitting Data (DBA Only)
   - [ ] Queries in a Sharded Cluster
   - [ ] Choosing a Shard Key
