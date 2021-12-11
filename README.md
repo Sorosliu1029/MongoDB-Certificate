@@ -106,7 +106,7 @@
   - [x] Chunks and the Balancer
   - [x] Config Servers and Cluster Metadata
   - [ ] Pre-Splitting Data (DBA Only)
-  - [ ] Queries in a Sharded Cluster
+  - [x] Queries in a Sharded Cluster
   - [ ] Choosing a Shard Key
   - [ ] Primary Shard
 - [ ] [Application and Server Administration (DBA Only)](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
