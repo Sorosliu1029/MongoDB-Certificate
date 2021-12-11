@@ -107,7 +107,7 @@
   - [x] Config Servers and Cluster Metadata
   - [ ] Pre-Splitting Data (DBA Only)
   - [x] Queries in a Sharded Cluster
-  - [ ] Choosing a Shard Key
+  - [x] Choosing a Shard Key
   - [ ] Primary Shard
 - [ ] [Application and Server Administration (DBA Only)](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
   - [ ] Introduction
