@@ -102,7 +102,7 @@
   - [x] Write Concern
 - [ ] [Sharding](https://university.mongodb.com/exam/guide#sharding)
   - [x] Introduction
-  - [ ] The Shard Key
+  - [x] The Shard Key
   - [ ] Chunks and the Balancer
   - [ ] Config Servers and Cluster Metadata
   - [ ] Pre-Splitting Data (DBA Only)
