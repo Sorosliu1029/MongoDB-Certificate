@@ -101,7 +101,7 @@
   - [x] Read Preference
   - [x] Write Concern
 - [ ] [Sharding](https://university.mongodb.com/exam/guide#sharding)
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] The Shard Key
   - [ ] Chunks and the Balancer
   - [ ] Config Servers and Cluster Metadata
