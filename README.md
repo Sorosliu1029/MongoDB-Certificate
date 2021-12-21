@@ -3,6 +3,7 @@
 ### Certificates
 
 - [x] [Developer Certification](https://university.mongodb.com/certification/certificate/883454239)
+  <div><img src="./DEVELOPER_Certificate.jpeg" alt="Developer Certificate" width="50%" /></div>
 - [ ] [Database Administrator Certification Exam](https://university.mongodb.com/certification/dba/about)
 
 ---
