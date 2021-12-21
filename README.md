@@ -2,7 +2,7 @@
 
 ### Certificates
 
-- [ ] [Developer Certification Exam](https://university.mongodb.com/certification/developer/about)
+- [x] [Developer Certification](https://university.mongodb.com/certification/certificate/883454239)
 - [ ] [Database Administrator Certification Exam](https://university.mongodb.com/certification/dba/about)
 
 ---
