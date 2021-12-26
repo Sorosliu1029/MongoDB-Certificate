@@ -101,12 +101,12 @@
   - [x] Oplog
   - [x] Read Preference
   - [x] Write Concern
-- [ ] [Sharding](https://university.mongodb.com/exam/guide#sharding)
+- [x] [Sharding](https://university.mongodb.com/exam/guide#sharding)
   - [x] Introduction
   - [x] The Shard Key
   - [x] Chunks and the Balancer
   - [x] Config Servers and Cluster Metadata
-  - [ ] Pre-Splitting Data (DBA Only)
+  - [x] Pre-Splitting Data (DBA Only)
   - [x] Queries in a Sharded Cluster
   - [x] Choosing a Shard Key
   - [x] Primary Shard
