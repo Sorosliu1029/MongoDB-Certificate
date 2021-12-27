@@ -127,7 +127,7 @@
   - [x] Importing and Exporting Data
   - [x] Basic Server Monitoring
   - [x] Backing up and Restoring Data (DBA Only)
-  - [ ] Advanced MongoDB Diagnostics (DBA Only)
+  - [x] Advanced MongoDB Diagnostics (DBA Only)
   - [ ] Manipulating BLOBs (DBA Only)
 - [x] [Storage Engines](https://university.mongodb.com/exam/guide#storage-engines)
   - [x] Introduction
