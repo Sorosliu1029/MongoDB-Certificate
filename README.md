@@ -122,13 +122,13 @@
   - [ ] Diagnostics and Debugging
   - [ ] Maintenance
   - [ ] Backup and Recovery
-- [ ] [Server Tools](https://university.mongodb.com/exam/guide#server-tools)
+- [x] [Server Tools](https://university.mongodb.com/exam/guide#server-tools)
   - [x] Introduction
   - [x] Importing and Exporting Data
   - [x] Basic Server Monitoring
   - [x] Backing up and Restoring Data (DBA Only)
   - [x] Advanced MongoDB Diagnostics (DBA Only)
-  - [ ] Manipulating BLOBs (DBA Only)
+  - [x] Manipulating BLOBs (DBA Only)
 - [x] [Storage Engines](https://university.mongodb.com/exam/guide#storage-engines)
   - [x] Introduction
   - [x] WiredTiger
