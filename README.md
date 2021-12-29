@@ -111,9 +111,9 @@
   - [x] Choosing a Shard Key
   - [x] Primary Shard
 - [ ] [Application and Server Administration (DBA Only)](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
-  - [ ] Introduction
-  - [ ] Journal
-  - [ ] Compression
+  - [x] Introduction
+  - [x] Journal
+  - [x] Compression
   - [ ] Server Logs
   - [ ] The Profiler
   - [ ] Monitoring and Performance Tuning
