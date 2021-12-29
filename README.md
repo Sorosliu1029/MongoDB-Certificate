@@ -114,7 +114,7 @@
   - [x] Introduction
   - [x] Journal
   - [x] Compression
-  - [ ] Server Logs
+  - [x] Server Logs
   - [ ] The Profiler
   - [ ] Monitoring and Performance Tuning
   - [ ] MongoDB Security
