@@ -116,7 +116,7 @@
   - [x] Compression
   - [x] Server Logs
   - [x] The Profiler
-  - [ ] Monitoring and Performance Tuning
+  - [x] Monitoring and Performance Tuning
   - [ ] MongoDB Security
   - [ ] Cluster Architecture
   - [ ] Diagnostics and Debugging
