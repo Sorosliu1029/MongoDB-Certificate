@@ -115,7 +115,7 @@
   - [x] Journal
   - [x] Compression
   - [x] Server Logs
-  - [ ] The Profiler
+  - [x] The Profiler
   - [ ] Monitoring and Performance Tuning
   - [ ] MongoDB Security
   - [ ] Cluster Architecture
