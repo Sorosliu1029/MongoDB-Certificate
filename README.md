@@ -119,7 +119,7 @@
   - [x] Server Logs
   - [x] The Profiler
   - [x] Monitoring and Performance Tuning
-  - [ ] MongoDB Security
+  - [x] MongoDB Security
   - [ ] Cluster Architecture
   - [ ] Diagnostics and Debugging
   - [ ] Maintenance
