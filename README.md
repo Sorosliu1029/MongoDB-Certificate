@@ -120,7 +120,7 @@
   - [x] The Profiler
   - [x] Monitoring and Performance Tuning
   - [x] MongoDB Security
-  - [ ] Cluster Architecture
+  - [x] Cluster Architecture
   - [ ] Diagnostics and Debugging
   - [ ] Maintenance
   - [ ] Backup and Recovery
