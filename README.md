@@ -2,6 +2,8 @@
 
 ### Certificates
 
+[My certificated profile](https://university.mongodb.com/certified_professional_finder/certified_professionals/738770)
+
 - [x] [Developer Certification](https://university.mongodb.com/certification/certificate/883454239)
   <div><img src="./DEVELOPER_Certificate.jpeg" alt="Developer Certificate" width="50%" /></div>
 - [ ] [Database Administrator Certification Exam](https://university.mongodb.com/certification/dba/about)
