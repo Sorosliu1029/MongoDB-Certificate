@@ -121,7 +121,7 @@
   - [x] Monitoring and Performance Tuning
   - [x] MongoDB Security
   - [x] Cluster Architecture
-  - [ ] Diagnostics and Debugging
+  - [x] Diagnostics and Debugging
   - [ ] Maintenance
   - [ ] Backup and Recovery
 - [x] [Server Tools](https://university.mongodb.com/exam/guide#server-tools)
