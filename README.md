@@ -112,7 +112,7 @@
   - [x] Queries in a Sharded Cluster
   - [x] Choosing a Shard Key
   - [x] Primary Shard
-- [ ] [Application and Server Administration (DBA Only)](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
+- [x] [Application and Server Administration (DBA Only)](https://university.mongodb.com/exam/guide#application-and-server-administration-dba-only)
   - [x] Introduction
   - [x] Journal
   - [x] Compression
@@ -123,7 +123,7 @@
   - [x] Cluster Architecture
   - [x] Diagnostics and Debugging
   - [x] Maintenance
-  - [ ] Backup and Recovery
+  - [x] Backup and Recovery
 - [x] [Server Tools](https://university.mongodb.com/exam/guide#server-tools)
   - [x] Introduction
   - [x] Importing and Exporting Data
