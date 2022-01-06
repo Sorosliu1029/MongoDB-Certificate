@@ -122,7 +122,7 @@
   - [x] MongoDB Security
   - [x] Cluster Architecture
   - [x] Diagnostics and Debugging
-  - [ ] Maintenance
+  - [x] Maintenance
   - [ ] Backup and Recovery
 - [x] [Server Tools](https://university.mongodb.com/exam/guide#server-tools)
   - [x] Introduction
